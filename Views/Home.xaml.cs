@@ -1,4 +1,8 @@
+using System;
+using System.Net.Http;
+using System.Threading.Tasks;
 using MAUIApi.Models;
+using Microsoft.Maui.Controls;
 
 namespace MAUIApi.Views;
 

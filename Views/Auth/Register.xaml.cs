@@ -1,5 +1,10 @@
+using System;
+using System.IO;
+using System.Net.Http;
 using System.Text.Json;
 using MAUIApi.Models;
+using Microsoft.Maui.Controls;
+using Microsoft.Maui.Storage;
 
 namespace MAUIApi.Views.Auth;
 
